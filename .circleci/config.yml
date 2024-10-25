@@ -8,7 +8,7 @@ orbs:
 executors:
   node:
     docker:
-      - image: cimg/node:21.5.0
+      - image: cimg/node:23.1.0
 
 jobs:
   test:
