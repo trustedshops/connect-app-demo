@@ -3,7 +3,7 @@ version: 2.1
 
 orbs:
   ms-teams-notifier: oktapodia/ms-teams-notifier@3.0.0
-  node: circleci/node@5.2.0
+  node: circleci/node@7.0.0
 
 executors:
   node:
